@@ -14,3 +14,5 @@ Run the shell script:
 ```
 
 CSV results are stored in the `results` directory.
+
+# WARNING: change the date in the `*.sql` files or else results will be incorrect
