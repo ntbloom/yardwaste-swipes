@@ -1,7 +1,10 @@
+/* Get a count on a per-customer basis */
+
 .headers on
 .mode csv
 
 ATTACH "databases/Db_SMS_TransHist.db" as history;
+
 
 
 SELECT 
